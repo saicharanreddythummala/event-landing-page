@@ -1,0 +1,44 @@
+body{
+    justify-content: center;
+    
+}
+.container-fluid{
+    border: 2px solid black;
+    padding: 40px;
+    height: 98vh;
+    width: 99%;
+    margin: 20px 0px 20px 10px;
+}
+.search{
+    text-align: center;
+    margin: 20px;
+}
+.search h1{
+    border: 2px solid black; 
+    width: 60%;
+}
+.eventContainer{
+    margin-top: 40px;
+}
+.eventCard{
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.left img{
+    width: 80%;
+    height: 70%;
+}
+.right h4{
+    font-size: medium;
+}
+.btn{
+    width: 80%;
+    margin:5px 0px 5px 0px;
+}
+
+
+
+
+
+
